@@ -51,7 +51,7 @@ $body-bg: #f3f3f0;
 	}
 </style>
 <script>
-import scheldwoorden from "./scheldworden.json";
+import scheldwoorden from "./scheldwoorden.json";
 
 export default {
 	data() {
